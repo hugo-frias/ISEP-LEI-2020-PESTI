@@ -1,6 +1,6 @@
 # ISEP-LEI-2020-PESTI
 
-Versão final do projeto desenvolvido para o meu estágio no [Gecad](https://www.gecad.isep.ipp.pt/GECAD/Pages/Presentation/Home.aspx) que equivale á unidade curricular Projeto/Estágio (_PESTI_) que faz parte do 3º ano, 2º semestre da Licenciatura em Engenharia Informática no ISEP.
+Versão final do projeto desenvolvido para o meu estágio no [Gecad](https://www.gecad.isep.ipp.pt/GECAD/Pages/Presentation/Home.aspx) que equivale á unidade curricular Projeto/Estágio (_PESTI_) que faz parte do 3º ano, 2º semestre da [Licenciatura em Engenharia Informática no ISEP](https://www.isep.ipp.pt/Course/Course/26).
 
 Neste estágio foi desenvolvido um projeto em Node.JS e React para uma aplicação de registo nutricional, cujos detalhes podem ser verificados mais abaixo.
 
